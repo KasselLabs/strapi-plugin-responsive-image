@@ -13,7 +13,7 @@
     "@buffetjs/icons": "^3.3.6",
     "immutable": "3.8.2",
     "lodash": "^4.17.21",
-    "prop-types": "15.7.2",
+    "prop-types": "15.8.1",
     "react": "^16.14.0",
     "react-router-dom": "^5.0.0",
     "sharp": "^0.28.1",
