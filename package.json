@@ -16,7 +16,7 @@
     "prop-types": "15.7.2",
     "react": "^16.14.0",
     "react-router-dom": "^5.0.0",
-    "sharp": "^0.28.1",
+    "sharp": "^0.32.6",
     "strapi-plugin-upload": "^3.6.2",
     "strapi-utils": "^3.6.2",
     "styled-components": "^5.2.3"
